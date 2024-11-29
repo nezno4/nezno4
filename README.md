@@ -83,8 +83,8 @@ Thanks for stopping by my GitHub profile! Let's build something amazing together
             <th>CleanCode</th>
             <th>IDE</th>
             <th>DevOps</th>
-            <th>Collaborate</th>
             <th>Backend</th>
+            <th>Collaborate</th>
             <th>SQL/NoSQL</th>
             <th>Testing</th>
             <th>OS/Tools</th>
@@ -96,8 +96,8 @@ Thanks for stopping by my GitHub profile! Let's build something amazing together
             <td><img align="left" alt="Deepsource" width="50px" src="/source/deepsource.png" /></td>
             <td><img align="left" alt="Visual Studio Code" width="50px" src="/source/visual-studio-code.gif" /></td>
             <td><img align="left" alt="Docker" width="50px" src="/source/docker.png" /></td>
-            <td><img align="left" alt="Git" width="50px" src="/source/git.gif" /></td>
             <td><img align="left" alt="SpringBoot" width="50px" src="/source/spring-boot.png" /></td>
+            <td><img align="left" alt="Git" width="50px" src="/source/git.gif" /></td>
             <td><img align="left" alt="MongoDB" width="50px" src="/source/mongo-db.gif" /></td>
             <td><img align="left" alt="Postman" width="50px" src="/source/postman.png" /></td>
             <td><img align="left" alt="Terminal" width="50px" src="/source/terminal.png" /></td>
@@ -107,8 +107,8 @@ Thanks for stopping by my GitHub profile! Let's build something amazing together
             <td> </td>
             <td><img align="left" alt="PyCharm" width="50px" src="/source/py-charm.gif" /></td>
             <td><img align="left" alt="Kuberbetes" width="50px" src="/source/kuberbetes.png" /></td>
-            <td><img align="left" alt="GitHub" width="50px" src="/source/git-hub.gif" /></td>
             <td><img align="left" alt="Hibernate" width="50px" src="/source/hibernate.png" /></td>
+            <td><img align="left" alt="GitHub" width="50px" src="/source/git-hub.gif" /></td>
             <td><img align="left" alt="SQL" width="50px" src="/source/sql.png" /></td>
             <td><img align="left" alt="Selenium" width="50px" src="/source/selenium.png" /></td>
             <td><img align="left" alt="Linux" width="70px" src="/source/linux.gif" /></td>
@@ -118,8 +118,8 @@ Thanks for stopping by my GitHub profile! Let's build something amazing together
             <td> </td>
             <td><img align="left" alt="IntelliJ" width="50px" src="/source/intellij.png" /></td>
             <td><img align="left" alt="Jenkins" width="50px" src="/source/jenkins.png" /></td>
-            <td><img align="left" alt="Commitizen" width="50px" src="/source/comitizen.png" /></td>
             <td><img align="left" alt="Java" width="50px" src="/source/java.png" /></td>
+            <td><img align="left" alt="Commitizen" width="50px" src="/source/comitizen.png" /></td>
             <td><img align="left" alt="MySQL" width="70px" src="/source/my-sql.png" /></td>
             <td><img align="left" alt="Carina" width="50px" src="/source/carina.png" /></td>
             <td><img align="left" alt="Windows" width="80px" src="/source/windows.png" /></td>
@@ -129,9 +129,9 @@ Thanks for stopping by my GitHub profile! Let's build something amazing together
             <td> </td>
             <td> </td>
             <td> </td>
+            <td><img align="left" alt="Maven" width="50px" src="/source/maven.png" /></td>
             <td><img align="left" alt="Discord" width="50px" src="/source/discord.gif" /></td>
-            <td><img align="left" alt="Discord" width="50px" src="/source/maven.gif" /></td>
-            <td><img align="left" alt="postgreSQL" width="50px" src="/source/postgre-sql.png" /></td>
+            <td><img align="left" alt="PostgreSQL" width="50px" src="/source/postgre-sql.png" /></td>
             <td><img align="left" alt="RestAssured" width="50px" src="/source/rest-assured.png" /></td>
             <td><img align="left" alt="XAMPP" width="50px" src="/source/xampp.png" /></td>
             <td><img align="left" alt="React" width="50px" src="/source/react.gif" /></td>
