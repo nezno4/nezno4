@@ -1,6 +1,6 @@
 # Who I am 👩‍🚀
 
-<img align="right" src="/source/fix.gif" style="width: 80%; height: 80%;" />
+<img align="right" src="/source/fix.gif" style="width: 85%; height: 75%;" />
 
 - [Hi there! I'm Nez!](#hi-there-im-nez-)    
 - [What and how I Do](#what-and-how-i-do-)
