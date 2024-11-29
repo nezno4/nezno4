@@ -1,4 +1,4 @@
-# Who I am
+# Who I am 👩‍🚀
 - [Hi there! I'm Nez!](#hi-there-im-nez-)    <img align="right" src="https://private-user-images.githubusercontent.com/74038190/240819596-4577b4e3-eb20-42ea-8088-c745981f3c82.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI4Mjc0NDEsIm5iZiI6MTczMjgyNzE0MSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTk1OTYtNDU3N2I0ZTMtZWIyMC00MmVhLTgwODgtYzc0NTk4MWYzYzgyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTI4VDIwNTIyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjNWZkZmRiMjM0Mzk3YWNhZDI5YWZjMTNhYzA2MzFlMjFiOTEwYWUwOTAxYmJkYWE5NTllODIxZjg0MjRjMmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4GTAYHRfxGPtQsHhB6kEQE7R311KzqG-qD7jKPls2Cw" height="250" width="500" />
 - [What and how I Do](#what-and-how-i-do-)
 - [Currently Learning](#currently-learning-)
@@ -6,6 +6,7 @@
 - [How to Reach Me](#how-to-reach-me-)
 - [Fun fact](#fun-fact-)
 - [My Gurus](#my-gurus-)
+- [Languages and Tools](#languages-and-tools-)
 
 
 ## Hi there! I'm Nez! 👋
@@ -17,11 +18,11 @@ My journey in coding began with Java/Hibernate/Spring Boot, and since then, I've
 
 ## What and how I Do 🧙🏼
 
-- Web Development: Crafting responsive and user-friendly websites using HTML, CSS, JavaScript, and Angular.
-- Backend Development: Building robust server-side applications with Java and Spring Boot.
-- Open Source Enthusiast: Contributing to various projects and collaborating with fellow developers to make a difference.
-- Eco-Friendly Advocate: I’m reading a lot about the Digital Carbon Footprint.
-- Favorite Tools/OS: Linux/Windows, IntelliJ, VS Code, Postman, Selenium, MySQL/PostgreSQL, Conventional Commits and Branches, Deepsource, Commitizen
+- **Web Development:** Crafting responsive and user-friendly websites using HTML, CSS, JavaScript, and Angular.
+- **Backend Development:** Building robust server-side applications with Java and Spring Boot.
+- **Open Source Enthusiast:** Contributing to various projects and collaborating with fellow developers to make a difference.
+- **Eco-Friendly Advocate:** I’m reading a lot about the Digital Carbon Footprint.
+- **Favorite Tools/OS:** Linux/Windows, IntelliJ, VS Code, Postman, Selenium, MySQL/PostgreSQL, Conventional Commits and Branches, Deepsource, Commitizen
 
 
 
@@ -41,7 +42,7 @@ Feel free to reach out if you want to chat about tech, share ideas, or collabora
 
 ## How to Reach Me 📫 
 
-Email: zenitechq@gmail.com
+**Email:** zenitechq@gmail.com
 
 
 
@@ -55,25 +56,25 @@ It takes about 243 Earth days for Venus to rotate once on its axis, but only abo
 
 ## My Gurus 😄
 
-- "Effective Java" - Joshua Bloch
-- "The Pragmatic Programmer: From Journeyman to Master" - Andrew Hunt, David Thomas
-- "Clean Code" - Robert C. Martin
-- "TDD: The Art of Software Development" - Kent Beck
-- "Certified Tester ISTQB. Foundation Level" - Adam Roman, Lucjan Stapp
-- "The Software Testing Profession" - Radosław Smiglin
-- "Test Software Like Google: Automation Methods" - James A. Whittaker, Jason Arbon, Jeff Carollo
-- "Algorithms: An Illustrated Guide" - Aditya Bhargava
-- "Design Patterns: Head First!" - Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson
-- "It Works for Me: The IT Industry Language" - Paweł Baszuro
-- "Getting Things Programmed: The Path to Efficiency" - Michał Bartyzel
-- "English 4 IT: Practical English Course for IT Specialists and Beyond" - Beata Błaszczyk
-- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
-- [Conventional Branches](https://conventional-branch.github.io/)
+- *"Effective Java"* - Joshua Bloch
+- *"The Pragmatic Programmer: From Journeyman to Master"* - Andrew Hunt, David Thomas
+- *"Clean Code"* - Robert C. Martin
+- *"TDD: The Art of Software Development"* - Kent Beck
+- *"Certified Tester ISTQB. Foundation Level"* - Adam Roman, Lucjan Stapp
+- *"The Software Testing Profession"* - Radosław Smiglin
+- *"Test Software Like Google: Automation Methods"* - James A. Whittaker, Jason Arbon, Jeff Carollo
+- *"Algorithms: An Illustrated Guide"* - Aditya Bhargava
+- *"Design Patterns: Head First!"* - Eric Freeman, Bert Bates, Kathy Sierra, Elisabeth Robson
+- *"It Works for Me: The IT Industry Language"* - Paweł Baszuro
+- *"Getting Things Programmed: The Path to Efficiency"* - Michał Bartyzel
+- *"English 4 IT: Practical English Course for IT Specialists and Beyond"* - Beata Błaszczyk
+- [*Conventional Commits*](https://www.conventionalcommits.org/en/v1.0.0/)
+- [*Conventional Branches*](https://conventional-branch.github.io/)
 
 Thanks for stopping by my GitHub profile! Let's build something amazing together! 🚀
 
 
-## Languages and Tools:
+## Languages and Tools 🔍
 <table>
     <thead>
         <tr>
