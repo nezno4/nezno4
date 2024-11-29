@@ -131,7 +131,7 @@ Thanks for stopping by my GitHub profile! Let's build something amazing together
             <td><img align="left" alt="Maven" width="50px" src="/source/maven.png" /></td>
             <td><img align="left" alt="GitLab" width="50px" src="/source/git-lab.png" /></td>
             <td><img align="left" alt="PostgreSQL" width="50px" src="/source/postgre-sql.png" /></td>
-            <td><img align="left" alt="Tux" width="40px" src="/source/tux.png" /></td>
+            <td><img align="left" alt="Tux" width="70px" src="/source/tux.png" /></td>
             <td><img align="left" alt="Kuberbetes" width="50px" src="/source/kuberbetes.png" /></td>
             <td><img align="left" alt="RestAssured" width="50px" src="/source/rest-assured.png" /></td>
             <td><img align="left" alt="React" width="50px" src="/source/react.gif" /></td>
