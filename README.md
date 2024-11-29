@@ -1,5 +1,8 @@
 # Who I am 👩‍🚀
-- [Hi there! I'm Nez!](#hi-there-im-nez-)    <img align="right" src="/source/fix.gif" style="width: 80%; height: 70%;" />
+
+<img align="right" src="/source/fix.gif" style="width: 80%; height: 80%;" />
+
+- [Hi there! I'm Nez!](#hi-there-im-nez-)    
 - [What and how I Do](#what-and-how-i-do-)
 - [Currently Learning](#currently-learning-)
 - [Let's Connect!](#lets-connect-)
