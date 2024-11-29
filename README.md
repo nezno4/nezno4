@@ -129,8 +129,8 @@ Thanks for stopping by my GitHub profile! Let's build something amazing together
             <td> </td>
             <td> </td>
             <td> </td>
-            <td> </td>
-            <td> </td>
+            <td><img align="left" alt="Discord" width="50px" src="/source/discord.gif" /></td>
+            <td><img align="left" alt="Discord" width="50px" src="/source/maven.gif" /></td>
             <td><img align="left" alt="postgreSQL" width="50px" src="/source/postgre-sql.png" /></td>
             <td><img align="left" alt="RestAssured" width="50px" src="/source/rest-assured.png" /></td>
             <td><img align="left" alt="XAMPP" width="50px" src="/source/xampp.png" /></td>
