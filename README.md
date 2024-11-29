@@ -1,10 +1,10 @@
 # Who I am 👩‍🚀
-- [Hi there! I'm Nez!](#hi-there-im-nez-)    <img align="right" src="/source/fix.gif" style="width: 80%; width: 70%;" />
+- [Hi there! I'm Nez!](#hi-there-im-nez-)    <img align="right" src="/source/fix.gif" style="width: 80%; height: 70%;" />
 - [What and how I Do](#what-and-how-i-do-)
 - [Currently Learning](#currently-learning-)
 - [Let's Connect!](#lets-connect-)
 - [How to Reach Me](#how-to-reach-me-)
-- [Fun fact](#fun-fact-)
+- [Fun Fact](#fun-fact-)
 - [My Gurus](#my-gurus-)
 - [Languages and Tools](#languages-and-tools-)
 
@@ -46,20 +46,19 @@ Feel free to reach out if you want to chat about tech, share ideas, or collabora
 
 
 
-## Fun fact ⚡
-
+## Fun Fact ⚡
 A day on Venus is longer than a year on Venus. 
-
+<img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 It takes about 243 Earth days for Venus to rotate once on its axis, but only about 225 Earth days to orbit the Sun.
 
 
 
 ## My Gurus 😄
 
-- *"Effective Java"* - Joshua Bloch
+- *"Effective Java"* - Joshua Bloch 
 - *"The Pragmatic Programmer: From Journeyman to Master"* - Andrew Hunt, David Thomas
-- *"Clean Code"* - Robert C. Martin
-- *"TDD: The Art of Software Development"* - Kent Beck
+- *"Clean Code"* - Robert C. Martin 
+- *"TDD: The Art of Software Development"* - Kent Beck <img align="right" src="https://user-images.githubusercontent.com/74038190/235223585-049a7ac0-b529-416d-b504-ed24aea7d99b.gif" style="width: 80%; height: 80%;" />
 - *"Certified Tester ISTQB. Foundation Level"* - Adam Roman, Lucjan Stapp
 - *"The Software Testing Profession"* - Radosław Smiglin
 - *"Test Software Like Google: Automation Methods"* - James A. Whittaker, Jason Arbon, Jeff Carollo
