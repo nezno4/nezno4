@@ -23,6 +23,7 @@ My journey in coding began with Java/Hibernate/Spring Boot, and since then, I've
 <h2 align="center">
 What and how I Do 🧙🏼
 </h2>
+
 - **Web Development:** Crafting responsive and user-friendly websites using HTML, CSS, JavaScript, and Angular.
 - **Backend Development:** Building robust server-side applications with Java and Spring Boot.
 - **Open Source Enthusiast:** Contributing to various projects and collaborating with fellow developers to make a difference.
@@ -33,26 +34,29 @@ What and how I Do 🧙🏼
 <h2  id="currently-learning" align="center">
 Currently Learning 🌱 
 </h2>
+
 I'm currently diving into Automation Testing, and I'm excited about the possibilities it offers for future projects!
 
 
 <h2 id="lets-connect"  align="center">
 Let's Connect! 💬 
 </h2>
-I love collaborating with others and sharing knowledge.
 
+I love collaborating with others and sharing knowledge. </br>
 Feel free to reach out if you want to chat about tech, share ideas, or collaborate on a project!
 
 
 <h2 id="how-to-reach-me" align="center">
 How to Reach Me 📫 
 </h2>
+
 **Email:** zenitechq@gmail.com
 
 
 <h2 align="center">
 Fun Fact ⚡
-</h2>    
+</h2>
+
 A day on Venus is longer than a year on Venus. 
 <img align="center" src="/source/comet.gif" />
 It takes about 243 Earth days for Venus to rotate once on its axis, but only about 225 Earth days to orbit the Sun.
