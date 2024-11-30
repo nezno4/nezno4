@@ -61,6 +61,8 @@ It takes about 243 Earth days for Venus to rotate once on its axis, but only abo
 <h2 align="center">
 My Gurus 😄
 </h2>
+
+
 - *"Effective Java"* - Joshua Bloch 
 - *"The Pragmatic Programmer: From Journeyman to Master"* - Andrew Hunt, David Thomas
 - *"Clean Code"* - Robert C. Martin 
@@ -76,7 +78,9 @@ My Gurus 😄
 - [*Conventional Commits*](https://www.conventionalcommits.org/en/v1.0.0/)
 - [*Conventional Branches*](https://conventional-branch.github.io/)
 
+
 Thanks for stopping by my GitHub profile! Let's build something amazing together! 🚀
+
 
 <h2 align="center">
 Languages and Tools 🔍
