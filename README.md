@@ -6,9 +6,9 @@ Who I am 👩‍🚀
 
 - [Hi there! I'm Nez!](#hi-there-im-nez-)    
 - [What and how I Do](#what-and-how-i-do-)
-- [Currently Learning](#currently-learning-)
-- [Let's Connect!](#lets-connect-)
-- [How to Reach Me](#how-to-reach-me-)
+- [Currently Learning](#currently-learning)
+- [Let's Connect!](#lets-connect)
+- [How to Reach Me](#how-to-reach-me)
 - [Fun Fact](#fun-fact-)
 - [My Gurus](#my-gurus-)
 - [Languages and Tools](#languages-and-tools-)
@@ -30,13 +30,13 @@ What and how I Do 🧙🏼
 - **Favorite Tools/OS:** Linux/Windows, IntelliJ, VS Code, Postman, Selenium, MySQL/PostgreSQL, Conventional Commits and Branches, Deepsource, Commitizen
 
 
-<h2 align="center">
+<h2  id="currently-learning" align="center">
 Currently Learning 🌱 
 </h2>
 I'm currently diving into Automation Testing, and I'm excited about the possibilities it offers for future projects!
 
 
-<h2 align="center">
+<h2 id="lets-connect"  align="center">
 Let's Connect! 💬 
 </h2>
 I love collaborating with others and sharing knowledge.
@@ -44,7 +44,7 @@ I love collaborating with others and sharing knowledge.
 Feel free to reach out if you want to chat about tech, share ideas, or collaborate on a project!
 
 
-<h2 align="center">
+<h2 id="how-to-reach-me" align="center">
 How to Reach Me 📫 
 </h2>
 **Email:** zenitechq@gmail.com
@@ -84,8 +84,9 @@ Thanks for stopping by my GitHub profile! Let's build something amazing together
 
 <h2 align="center">
 Languages and Tools 🔍
-</h2>    
-<table align="center">
+</h2>
+
+<table>
     <thead>
         <tr>
             <th>CleanCode</th>
@@ -101,59 +102,59 @@ Languages and Tools 🔍
     </thead>
     <tbody>
         <tr>
-            <td><img align="left" alt="Deepsource" width="50px" src="/source/deepsource.png" /></td>
-            <td><img align="left" alt="Visual Studio Code" width="50px" src="/source/visual-studio-code.gif" /></td>
-            <td><img align="left" alt="SpringBoot" width="50px" src="/source/spring-boot.png" /></td>
-            <td><img align="left" alt="Discord" width="50px" src="/source/discord.png" /></td>
-            <td><img align="left" alt="MongoDB" width="50px" src="/source/mongo-db.gif" /></td>
-            <td><img align="left" alt="Terminal" width="50px" src="/source/terminal.png" /></td>
-            <td><img align="left" alt="DevOps" width="90px" src="/source/devops.png" /></td>
-            <td><img align="left" alt="Postman" width="50px" src="/source/postman.png" /></td>
-            <td><img align="left" alt="HTML5" width="50px" src="/source/html5.gif" /></td>
+            <td><div align="center"><img alt="Deepsource" width="50px" src="/source/deepsource.png" /></div></td>
+            <td><div align="center"><img alt="Visual Studio Code" width="50px" src="/source/visual-studio-code.gif" /></td>
+            <td><div align="center"><img alt="SpringBoot" width="50px" src="/source/spring-boot.png" /></td>
+            <td><div align="center"><img alt="Discord" width="50px" src="/source/discord.png" /></td>
+            <td><div align="center"><img alt="MongoDB" width="50px" src="/source/mongo-db.gif" /></td>
+            <td><div align="center"><img alt="Terminal" width="50px" src="/source/terminal.png" /></td>
+            <td><div align="center"><img alt="DevOps" width="90px" src="/source/devops.png" /></td>
+            <td><div align="center"><img alt="Postman" width="50px" src="/source/postman.png" /></td>
+            <td><div align="center"><img alt="HTML5" width="50px" src="/source/html5.gif" /></td>
         </tr>
         <tr>
-            <td><img align="left" alt="Solid" width="90px" src="/source/solid.png" /></td>
-            <td><img align="left" alt="PyCharm" width="50px" src="/source/py-charm.gif" /></td>
-            <td><img align="left" alt="Hibernate" width="50px" src="/source/hibernate.png" /></td>
-            <td><img align="left" alt="GitHub" width="50px" src="/source/git-hub.gif" /></td>
-            <td><img align="left" alt="SQL" width="50px" src="/source/sql.png" /></td>
-            <td><img align="left" alt="Bash" width="80px" src="/source/bash.png" /></td>
-            <td><img align="left" alt="Jenkins" width="50px" src="/source/jenkins.png" /></td>
-            <td><img align="left" alt="Selenium" width="50px" src="/source/selenium.png" /></td>
-            <td><img align="left" alt="CSS3" width="50px" src="/source/css3.gif" /></td>
-        </tr>
-        <tr>
-            <td> </td>
-            <td><img align="left" alt="IntelliJ" width="50px" src="/source/intellij.png" /></td>
-            <td><img align="left" alt="Java" width="50px" src="/source/java.png" /></td>
-            <td><img align="left" alt="Commitizen" width="50px" src="/source/comitizen.png" /></td>
-            <td><img align="left" alt="MySQL" width="70px" src="/source/my-sql.png" /></td>
-            <td><img align="left" alt="Linux" width="70px" src="/source/linux.gif" /></td>
-            <td><img align="left" alt="Docker" width="50px" src="/source/docker.png" /></td>
-            <td><img align="left" alt="Carina" width="50px" src="/source/carina.png" /></td>
-            <td><img align="left" alt="JavaScript" width="50px" src="/source/js.gif" /></td>
+            <td><div align="center"><img alt="Solid" width="90px" src="/source/solid.png" /></td>
+            <td><div align="center"><img alt="PyCharm" width="50px" src="/source/py-charm.gif" /></td>
+            <td><div align="center"><img alt="Hibernate" width="50px" src="/source/hibernate.png" /></td>
+            <td><div align="center"><img alt="GitHub" width="50px" src="/source/git-hub.gif" /></td>
+            <td><div align="center"><img alt="SQL" width="50px" src="/source/sql.png" /></td>
+            <td><div align="center"><img alt="Bash" width="80px" src="/source/bash.png" /></td>
+            <td><div align="center"><img alt="Jenkins" width="50px" src="/source/jenkins.png" /></td>
+            <td><div align="center"><img alt="Selenium" width="50px" src="/source/selenium.png" /></td>
+            <td><div align="center"><img alt="CSS3" width="50px" src="/source/css3.gif" /></td>
         </tr>
         <tr>
             <td> </td>
+            <td><div align="center"><img alt="IntelliJ" width="50px" src="/source/intellij.png" /></td>
+            <td><div align="center"><img alt="Java" width="50px" src="/source/java.png" /></td>
+            <td><div align="center"><img alt="Commitizen" width="50px" src="/source/comitizen.png" /></td>
+            <td><div align="center"><img alt="MySQL" width="70px" src="/source/my-sql.png" /></td>
+            <td><div align="center"><img alt="Linux" width="70px" src="/source/linux.gif" /></td>
+            <td><div align="center"><img alt="Docker" width="50px" src="/source/docker.png" /></td>
+            <td><div align="center"><img alt="Carina" width="50px" src="/source/carina.png" /></td>
+            <td><div align="center"><img alt="JavaScript" width="50px" src="/source/js.gif" /></td>
+        </tr>
+        <tr>
             <td> </td>
-            <td><img align="left" alt="Maven" width="50px" src="/source/maven.png" /></td>
-            <td><img align="left" alt="GitLab" width="50px" src="/source/git-lab.png" /></td>
-            <td><img align="left" alt="PostgreSQL" width="50px" src="/source/postgre-sql.png" /></td>
-            <td><img align="left" alt="Tux" width="70px" src="/source/tux.png" /></td>
-            <td><img align="left" alt="Kuberbetes" width="50px" src="/source/kuberbetes.png" /></td>
-            <td><img align="left" alt="RestAssured" width="50px" src="/source/rest-assured.png" /></td>
-            <td><img align="left" alt="React" width="50px" src="/source/react.gif" /></td>
+            <td> </td>
+            <td><div align="center"><img alt="Maven" width="50px" src="/source/maven.png" /></td>
+            <td><div align="center"><img alt="GitLab" width="50px" src="/source/git-lab.png" /></td>
+            <td><div align="center"><img alt="PostgreSQL" width="50px" src="/source/postgre-sql.png" /></td>
+            <td><div align="center"><img alt="Tux" width="70px" src="/source/tux.png" /></td>
+            <td><div align="center"><img alt="Kuberbetes" width="50px" src="/source/kuberbetes.png" /></td>
+            <td><div align="center"><img alt="RestAssured" width="50px" src="/source/rest-assured.png" /></td>
+            <td><div align="center"><img alt="React" width="50px" src="/source/react.gif" /></td>
         </tr>
         <tr>
           <td> </td>
           <td> </td> 
           <td> </td>
-          <td><img align="left" alt="Git" width="50px" src="/source/git.gif" /></td>
-          <td><img align="left" alt="PHPMyAdmin" width="70px" src="/source/php-my-admin.png" /> </td>
-          <td><img align="left" alt="Tor" width="50px" src="/source/tor.png" /></td>
-          <td><img align="left" alt="Teraform" width="50px" src="/source/teraform.png" /></td>
-          <td><img align="left" alt="GraphQL" width="50px" src="/source/graph-ql.png" /></td>
-          <td><img align="left" alt="Node.js" width="50px" src="/source/node-js.gif" /></td>
+          <td><div align="center"><img alt="Git" width="50px" src="/source/git.gif" /></td>
+          <td><div align="center"><img alt="PHPMyAdmin" width="70px" src="/source/php-my-admin.png" /> </td>
+          <td><div align="center"><img alt="Tor" width="50px" src="/source/tor.png" /></td>
+          <td><div align="center"><img alt="Teraform" width="50px" src="/source/teraform.png" /></td>
+          <td><div align="center"><img alt="GraphQL" width="50px" src="/source/graph-ql.png" /></td>
+          <td><div align="center"><img alt="Node.js" width="50px" src="/source/node-js.gif" /></td>
         </tr>
         <tr>
           <td> </td>
@@ -161,10 +162,10 @@ Languages and Tools 🔍
           <td> </td>
           <td> </td>
           <td> </td>
-          <td><img align="left" alt="XAMPP" width="50px" src="/source/xampp.png" /></td>
-          <td><img align="left" alt="Ansible" width="70px" src="/source/ansible.png" /></td>
-          <td><img align="left" alt="TestNG" width="50px" src="/source/test-ng.png" /></td>
-          <td><img align="left" alt="Bootstrap" width="50px" src="/source/bootstrap.gif" /></td>
+          <td><div align="center"><img alt="XAMPP" width="50px" src="/source/xampp.png" /></td>
+          <td><div align="center"><img alt="Ansible" width="70px" src="/source/ansible.png" /></td>
+          <td><div align="center"><img alt="TestNG" width="50px" src="/source/test-ng.png" /></td>
+          <td><div align="center"><img alt="Bootstrap" width="50px" src="/source/bootstrap.gif" /></td>
         </tr>
         <tr>
           <td> </td>
@@ -172,10 +173,10 @@ Languages and Tools 🔍
           <td> </td>
           <td> </td>
           <td> </td>
-          <td><img align="left" alt="Python" width="50px" src="/source/python.gif" /></td>
-          <td><img align="left" alt="AWS" width="70px" src="/source/aws.png" /></td>
-          <td><img align="left" alt="JUnit" width="50px" src="/source/junit.png" /></td>
-          <td><img align="left" alt="TypeScript" width="50px" src="/source/type-script.png" /></td>
+          <td><div align="center"><img alt="Python" width="50px" src="/source/python.gif" /></td>
+          <td><div align="center"><img alt="AWS" width="70px" src="/source/aws.png" /></td>
+          <td><div align="center"><img alt="JUnit" width="50px" src="/source/junit.png" /></td>
+          <td><div align="center"><img alt="TypeScript" width="50px" src="/source/type-script.png" /></td>
         </tr>
         <tr>
           <td> </td>
@@ -183,10 +184,10 @@ Languages and Tools 🔍
           <td> </td>
           <td> </td>
           <td> </td>
-          <td><img align="left" alt="Windows" width="80px" src="/source/windows.png" /></td>
-          <td><img align="left" alt="Azure" width="90px" src="/source/azure.png" /></td>
-          <td><img align="left" alt="Cucumber" width="50px" src="/source/cucumber.png" /></td>
-          <td><img align="left" alt="Angular" width="50px" src="/source/angular.gif" /></td>
+          <td><div align="center"><img alt="Windows" width="80px" src="/source/windows.png" /></td>
+          <td><div align="center"><img alt="Azure" width="90px" src="/source/azure.png" /></td>
+          <td><div align="center"><img alt="Cucumber" width="50px" src="/source/cucumber.png" /></td>
+          <td><div align="center"><img alt="Angular" width="50px" src="/source/angular.gif" /></td>
         </tr>
           <td> </td>
           <td> </td>
@@ -195,8 +196,8 @@ Languages and Tools 🔍
           <td> </td>
           <td> </td>
           <td> </td>
-          <td><img align="left" alt="Appium" width="50px" src="/source/appium.png" /></td>
-          <td><img align="left" alt="Npm" width="50px" src="/source/npm.png" /></td>
+          <td><div align="center"><img alt="Appium" width="50px" src="/source/appium.png" /></td>
+          <td><div align="center"><img alt="Npm" width="50px" src="/source/npm.png" /></td>
         </tr>
     </body>
 </table>
