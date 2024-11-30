@@ -15,7 +15,7 @@ Who I am 👩‍🚀
 - [My Gurus](#my-gurus-)
 - [Languages and Tools](#languages-and-tools-)
 
-
+<br />
 
 <h2 align="center">
 Hi there! I'm Nez! 👋
