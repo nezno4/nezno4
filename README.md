@@ -1,4 +1,6 @@
-# Who I am 👩‍🚀
+<h1 align="center">
+Who I am 👩‍🚀
+</h1>
 
 <img align="right" src="/source/fix.gif" style="width: 75%; height: 75%;" />
 
@@ -11,16 +13,16 @@
 - [My Gurus](#my-gurus-)
 - [Languages and Tools](#languages-and-tools-)
 
-
-## Hi there! I'm Nez! 👋
-
+<h2 align="center">
+Hi there! I'm Nez! 👋
+</h2>
 I'm a passionate developer with a love for creating innovative solutions and exploring new technologies.
 
 My journey in coding began with Java/Hibernate/Spring Boot, and since then, I've expanded my toolkit to include Testing.
 
-
-## What and how I Do 🧙🏼
-
+<h2 align="center">
+What and how I Do 🧙🏼
+</h2>
 - **Web Development:** Crafting responsive and user-friendly websites using HTML, CSS, JavaScript, and Angular.
 - **Backend Development:** Building robust server-side applications with Java and Spring Boot.
 - **Open Source Enthusiast:** Contributing to various projects and collaborating with fellow developers to make a difference.
@@ -28,36 +30,37 @@ My journey in coding began with Java/Hibernate/Spring Boot, and since then, I've
 - **Favorite Tools/OS:** Linux/Windows, IntelliJ, VS Code, Postman, Selenium, MySQL/PostgreSQL, Conventional Commits and Branches, Deepsource, Commitizen
 
 
-
-## Currently Learning 🌱 
-
+<h2 align="center">
+Currently Learning 🌱 
+</h2>
 I'm currently diving into Automation Testing, and I'm excited about the possibilities it offers for future projects!
 
 
-
-## Let's Connect! 💬 
-
+<h2 align="center">
+Let's Connect! 💬 
+</h2>
 I love collaborating with others and sharing knowledge.
 
 Feel free to reach out if you want to chat about tech, share ideas, or collaborate on a project!
 
 
-
-## How to Reach Me 📫 
-
+<h2 align="center">
+How to Reach Me 📫 
+</h2>
 **Email:** zenitechq@gmail.com
 
 
-
-## Fun Fact ⚡
+<h2 align="center">
+Fun Fact ⚡
+</h2>    
 A day on Venus is longer than a year on Venus. 
 <img align="center" src="/source/comet.gif" />
 It takes about 243 Earth days for Venus to rotate once on its axis, but only about 225 Earth days to orbit the Sun.
 
 
-
-## My Gurus 😄
-
+<h2 align="center">
+My Gurus 😄
+</h2>
 - *"Effective Java"* - Joshua Bloch 
 - *"The Pragmatic Programmer: From Journeyman to Master"* - Andrew Hunt, David Thomas
 - *"Clean Code"* - Robert C. Martin 
@@ -75,9 +78,10 @@ It takes about 243 Earth days for Venus to rotate once on its axis, but only abo
 
 Thanks for stopping by my GitHub profile! Let's build something amazing together! 🚀
 
-
-## Languages and Tools 🔍
-<table>
+<h2 align="center">
+Languages and Tools 🔍
+</h2>    
+<table align="center">
     <thead>
         <tr>
             <th>CleanCode</th>
@@ -197,21 +201,27 @@ Thanks for stopping by my GitHub profile! Let's build something amazing together
 
 ---
 
+<div align="center">
+ <div>
+   <p>&nbsp;
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nezno4&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+   </p>
+  </div>
+ </div>
+
+<div align="center">
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Nez's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezno4" />
-
+<img alt="Nez's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nezno4&layout=compact&theme=radical" />
 </details>
+</div>
 
-<br />
-<br />
-<br />
-<br />
-
+<div align="center">
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Nez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nezno4&show_icons=true&hide_border=true" />
+  <img alt="Nez's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nezno4&show_icons=true&hide_border=false&theme=radical&show_icons=true" />
 
 </details>
+</div>
